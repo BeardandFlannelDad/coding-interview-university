@@ -9,6 +9,7 @@
 > including the giants: Amazon, Facebook, Google or Microsoft.
 >
 > *Best of luck to you!*
+git checkout -b progress
 
 Translations:
 - [中文版本](translations/README-cn.md)
