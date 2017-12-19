@@ -9,7 +9,10 @@
 > including the giants: Amazon, Facebook, Google or Microsoft.
 >
 > *Best of luck to you!*
-git checkout -b progress
+    git checkout -b progress
+    git remote add jwasham https://github.com/jwasham/coding-interview-university
+
+    git fetch --all
 
 Translations:
 - [中文版本](translations/README-cn.md)
